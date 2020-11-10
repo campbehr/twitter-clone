@@ -1,7 +1,9 @@
-#What is this?
+# What is this?
+
 This is my first attempt at a MERN stack. It is intended to be a Twitter clone that will handle User Auth and CRUD processes.
 
-##What I'm using...
+## What I'm using...
+
 As the stack says...
 
 1. M - MongoDB with Mongoose
